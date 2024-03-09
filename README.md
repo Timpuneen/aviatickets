@@ -1,3 +1,5 @@
+так и не получилось решить проблему с гитом, добавил сам проект файлом proj.zip
+
 # Midterm Exam Instructions
 
 Midterm Exam is for Android course Students of KBTU Spring 2023-2024
